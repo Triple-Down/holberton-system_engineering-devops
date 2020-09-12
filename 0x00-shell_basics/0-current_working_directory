@@ -1,5 +1,3 @@
 #!/bin/bash
-
 # My first script for shell basics
-
-echo $pwd
+echo $PWD
